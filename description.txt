@@ -1,0 +1,1 @@
+Allows enemies to spawn with prefixes, which can change their stats or add various special effects. See the mod homepage for a much more detailed description of content and a changelog.
